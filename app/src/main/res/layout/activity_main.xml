@@ -12,23 +12,31 @@
         android:id="@+id/type1"
         android:layout_width="match_parent"
         android:layout_height="@dimen/button_height"
-        android:text="@string/type1"/>
+        android:text="@string/type1"
+        android:tag="@string/type1tag"
+        android:onClick="sendOnClick"/>
     <Button
         android:id="@+id/type2"
         android:layout_below="@id/type1"
         android:layout_width="match_parent"
         android:layout_height="@dimen/button_height"
-        android:text="@string/type2"/>
+        android:text="@string/type2"
+        android:tag="@string/type2tag"
+        android:onClick="sendOnClick"/>
     <Button
         android:id="@+id/type3"
         android:layout_below="@id/type2"
         android:layout_width="match_parent"
         android:layout_height="@dimen/button_height"
-        android:text="@string/type3"/>
+        android:text="@string/type3"
+        android:tag="@string/type3tag"
+        android:onClick="sendOnClick"/>
     <Button
         android:id="@+id/type4"
         android:layout_below="@id/type3"
         android:layout_width="match_parent"
         android:layout_height="@dimen/button_height"
-        android:text="@string/type4"/>
+        android:text="@string/type4"
+        android:tag="@string/type4tag"
+        android:onClick="sendOnClick"/>
 </RelativeLayout>

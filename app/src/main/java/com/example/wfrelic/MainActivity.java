@@ -7,6 +7,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
+import android.widget.Toast;
 
 public class MainActivity extends Activity {
 
@@ -25,14 +26,15 @@ public class MainActivity extends Activity {
 
     }
 
-    public void sendOnClick(int type)
+    public void sendOnClick(View view)
     {
+        //Toast.makeText(this,String.valueOf(view.getTag()),Toast.LENGTH_LONG).show();
         Intent intent = new Intent(this, TypeDetailsActivity.class);
-        intent.putExtra(TYPE,type);
+        intent.putExtra(TYPE,String.valueOf(view.getTag()));
         startActivity(intent);
     }
 
-    public void type1OnClick(View view)
+    /*public void type1OnClick(View view)
     {
         sendOnClick(1);
     }
@@ -50,10 +52,5 @@ public class MainActivity extends Activity {
     public void type4OnClick(View view)
     {
         sendOnClick(4);
-    }
-
-    /*public void type5OnClick(View view)
-    {
-        sendOnClick(5);
     }*/
 }
