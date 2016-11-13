@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WFRelic</string>
+    <string name="type1">Type 1</string>
+    <string name="type2">Type 2</string>
+    <string name="type3">Type 3</string>
+    <string name="type4">Type 4</string>
+    <string name="type5">Type 5</string>
+</resources>
