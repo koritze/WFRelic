@@ -17,8 +17,14 @@ public class MainActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        /*Button type1 = (Button)findViewById(R.id.type1);
-        Button type2 = (Button)findViewById(R.id.type2);
+        Button type1 = (Button)findViewById(R.id.type1);
+        type1.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                sendOnClick(view);
+            }
+        });
+        /*Button type2 = (Button)findViewById(R.id.type2);
         Button type3 = (Button)findViewById(R.id.type3);
         Button type4 = (Button)findViewById(R.id.type4);
         Button type5 = (Button)findViewById(R.id.type5);*/

@@ -6,16 +6,31 @@ package com.example.wfrelic;
 
 public class Item {
     String name;
-    int bmin;
-    int smin;
-    int ducats;
-    Relic[] source;
+    String part;
+    String rarity;
+    String relics;
+    int plat;
+    int ducat;
+    boolean vaulted;
 
-    public Item(String name, int bmin, int smin, int ducats) {
+    public Item(String name, String part, String rarity, String relics, int ducat, boolean vaulted) {
         this.name = name;
-        this.bmin = bmin;
-        this.smin = smin;
-        this.ducats = ducats;
+        this.part = part;
+        this.rarity = rarity;
+        this.relics = relics;
+        this.plat = 0;
+        this.ducat = ducat;
+        this.vaulted = vaulted;
+    }
+
+    public Item(String name, String part, String rarity, String relics, int ducat, boolean vaulted, int plat) {
+        this.name = name;
+        this.part = part;
+        this.rarity = rarity;
+        this.relics = relics;
+        this.plat = plat;
+        this.ducat = ducat;
+        this.vaulted = vaulted;
     }
 
     public String getName() {
@@ -26,27 +41,51 @@ public class Item {
         this.name = name;
     }
 
-    public int getBmin() {
-        return bmin;
+    public String getPart() {
+        return part;
     }
 
-    public void setBmin(int bmin) {
-        this.bmin = bmin;
+    public void setPart(String part) {
+        this.part = part;
     }
 
-    public int getSmin() {
-        return smin;
+    public String getRarity() {
+        return rarity;
     }
 
-    public void setSmin(int smin) {
-        this.smin = smin;
+    public void setRarity(String rarity) {
+        this.rarity = rarity;
     }
 
-    public int getDucats() {
-        return ducats;
+    public String getRelics() {
+        return relics;
     }
 
-    public void setDucats(int ducats) {
-        this.ducats = ducats;
+    public void setRelics(String relics) {
+        this.relics = relics;
+    }
+
+    public int getPlat() {
+        return plat;
+    }
+
+    public void setPlat(int plat) {
+        this.plat = plat;
+    }
+
+    public int getDucat() {
+        return ducat;
+    }
+
+    public void setDucat(int ducat) {
+        this.ducat = ducat;
+    }
+
+    public boolean isVaulted() {
+        return vaulted;
+    }
+
+    public void setVaulted(boolean vaulted) {
+        this.vaulted = vaulted;
     }
 }
