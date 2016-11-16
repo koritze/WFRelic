@@ -15,7 +15,7 @@ public class Item {
 
     public Item()
     {
-
+        plat = -1;
     }
 
     public Item(String name, String part, String rarity, String relics, int ducat, int vaulted) {

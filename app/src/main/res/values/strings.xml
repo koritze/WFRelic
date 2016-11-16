@@ -10,4 +10,5 @@
     <string name="type3tag">Neo</string>
     <string name="type4tag">Axi</string>
     <string name="type5tag">type5</string>
+    <string name="networknotavailable">Network not available</string>
 </resources>

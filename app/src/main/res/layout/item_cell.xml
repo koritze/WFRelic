@@ -9,16 +9,33 @@
         android:textColor="@android:color/holo_blue_dark"
         android:id="@+id/lblName"
         android:textSize="@dimen/font_big_size"/>
+    
+
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@id/lblName"
         android:textSize="@dimen/font_small_size"
         android:id="@+id/lblDucats"/>
+    <ImageView
+        android:layout_width="@dimen/icon_size"
+        android:layout_height="@dimen/icon_size"
+        android:src="@drawable/ducat"
+        android:layout_toRightOf="@id/lblDucats"
+        android:layout_below="@id/lblName"
+        android:id="@+id/ivDucat"/>
+
+    <ImageView
+        android:layout_width="@dimen/icon_size"
+        android:layout_height="@dimen/icon_size"
+        android:layout_alignParentRight="true"
+        android:layout_below="@id/lblName"
+        android:src="@drawable/plat"
+        android:id="@+id/ivPlat"/>
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignParentRight="true"
+        android:layout_toLeftOf="@id/ivPlat"
         android:layout_below="@id/lblName"
         android:textSize="@dimen/font_small_size"
         android:id="@+id/lblPlat"/>
