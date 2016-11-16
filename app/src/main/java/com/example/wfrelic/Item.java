@@ -11,19 +11,24 @@ public class Item {
     String relics;
     int plat;
     int ducat;
-    boolean vaulted;
+    int vaulted;
 
-    public Item(String name, String part, String rarity, String relics, int ducat, boolean vaulted) {
+    public Item()
+    {
+
+    }
+
+    public Item(String name, String part, String rarity, String relics, int ducat, int vaulted) {
         this.name = name;
         this.part = part;
         this.rarity = rarity;
         this.relics = relics;
-        this.plat = 0;
+        this.plat = -1;
         this.ducat = ducat;
         this.vaulted = vaulted;
     }
 
-    public Item(String name, String part, String rarity, String relics, int ducat, boolean vaulted, int plat) {
+    public Item(String name, String part, String rarity, String relics, int ducat, int vaulted, int plat) {
         this.name = name;
         this.part = part;
         this.rarity = rarity;
@@ -81,11 +86,12 @@ public class Item {
         this.ducat = ducat;
     }
 
-    public boolean isVaulted() {
+    public int getVaulted() {
         return vaulted;
     }
 
-    public void setVaulted(boolean vaulted) {
+    public void setVaulted(int vaulted) {
         this.vaulted = vaulted;
     }
+
 }

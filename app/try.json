@@ -1,0 +1,1316 @@
+{"Items":[
+    {
+        "name": "Akbronco",
+        "part": "Blueprint",
+        "relics": "Lith S2,Lith S3",
+        "rarity": "Common",
+        "ducat": 15,
+        "vaulted": 0,
+        "plat": 1
+    },
+    {
+        "name": "Akbronco",
+        "part": "Link",
+        "relics": "Lith N1,Axi S1",
+        "rarity": "Uncommon",
+        "ducat": 45,
+        "vaulted": 0
+    },
+    {
+        "name": "Akstiletto",
+        "part": "Blueprint",
+        "relics": "Lith A1",
+        "rarity": "Rare",
+        "ducat": 100,
+        "vaulted": 0
+    },
+    {
+        "name": "Akstiletto",
+        "part": "Barrel",
+        "relics": "Axi A1",
+        "rarity": "Uncommon",
+        "ducat": 45,
+        "vaulted": 0
+    },
+    {
+        "name": "Akstiletto",
+        "part": "Receiver",
+        "relics": "Axi K1,Axi T1",
+        "rarity": "Uncommon",
+        "ducat": 45,
+        "vaulted": 0
+    },
+    {
+        "name": "Akstiletto",
+        "part": "Link",
+        "relics": "Axi N1",
+        "rarity": "Uncommon",
+        "ducat": 45,
+        "vaulted": 0,
+        "plat": 2
+    },
+    {
+        "name": "Ankyros",
+        "part": "Blueprint",
+        "relics": "Prime Vault",
+        "rarity": "NA",
+        "ducat": 15,
+        "vaulted": 1
+    },
+    {
+        "name": "Ankyros",
+        "part": "Blade",
+        "relics": "Prime Vault",
+        "rarity": "NA",
+        "ducat": 100,
+        "vaulted": 1
+    },
+    {
+        "name": "Ankyros",
+        "part": "Gauntlet",
+        "relics": "Prime Vault",
+        "rarity": "NA",
+        "ducat": 15,
+        "vaulted": 1
+    },
+    {
+        "name": "Ash",
+        "part": "Blueprint",
+        "relics": "Lith S3,Meso C1",
+        "rarity": "Uncommon",
+        "ducat": 45,
+        "vaulted": 0
+    },
+    {
+        "name": "Ash",
+        "part": "Chassis",
+        "relics": "Meso V2",
+        "rarity": "Common",
+        "ducat": 15,
+        "vaulted": 0
+    },
+    {
+        "name": "Ash",
+        "part": "Neuroptics",
+        "relics": "Meso N2,Neo N3,Axi N2",
+        "rarity": "Uncommon",
+        "ducat": 45,
+        "vaulted": 0
+    },
+    {
+        "name": "Ash",
+        "part": "Systems",
+        "relics": "Axi N1",
+        "rarity": "Rare",
+        "ducat": 100,
+        "vaulted": 0
+    },
+    {
+        "name": "Bo",
+        "part": "Blueprint",
+        "relics": "Prime Vault",
+        "rarity": "NA",
+        "ducat": 15,
+        "vaulted": 1
+    },
+    {
+        "name": "Bo",
+        "part": "Handle",
+        "relics": "Prime Vault",
+        "rarity": "NA",
+        "ducat": 45,
+        "vaulted": 1
+    },
+    {
+        "name": "Bo",
+        "part": "Ornament",
+        "relics": "Prime Vault",
+        "rarity": "NA",
+        "ducat": 15,
+        "vaulted": 1
+    },
+    {
+        "name": "Boar",
+        "part": "Blueprint",
+        "relics": "Neo D1",
+        "rarity": "Common",
+        "ducat": 15,
+        "vaulted": 1
+    },
+    {
+        "name": "Boar",
+        "part": "Barrel",
+        "relics": "Axi V2",
+        "rarity": "Uncommon",
+        "ducat": 45,
+        "vaulted": 1
+    },
+    {
+        "name": "Boar",
+        "part": "Receiver",
+        "relics": "Lith M1",
+        "rarity": "Common",
+        "ducat": 15,
+        "vaulted": 1
+    },
+    {
+        "name": "Boar",
+        "part": "Stock",
+        "relics": "Meso B1",
+        "rarity": "Rare",
+        "ducat": 100,
+        "vaulted": 1
+    },
+    {
+        "name": "Boltor",
+        "part": "Blueprint",
+        "relics": "Prime Vault",
+        "rarity": "Common",
+        "ducat": 100,
+        "vaulted": 1
+    },
+    {
+        "name": "Boltor",
+        "part": "Barrel",
+        "relics": "Prime Vault",
+        "rarity": "Common",
+        "ducat": 15,
+        "vaulted": 1
+    },
+    {
+        "name": "Boltor",
+        "part": "Receiver",
+        "relics": "Prime Vault",
+        "rarity": "Uncommon",
+        "ducat": 45,
+        "vaulted": 1
+    },
+    {
+        "name": "Boltor",
+        "part": "Stock",
+        "relics": "Prime Vault",
+        "rarity": "Common",
+        "ducat": 15,
+        "vaulted": 1
+    },
+    {
+        "name": "Braton",
+        "part": "Blueprint",
+        "relics": "Meso V1,Axi N1",
+        "rarity": "Common",
+        "ducat": 15,
+        "vaulted": 0
+    },
+    {
+        "name": "Braton",
+        "part": "Barrel",
+        "relics": "Lith A1",
+        "rarity": "Common",
+        "ducat": 15,
+        "vaulted": 0
+    },
+    {
+        "name": "Braton",
+        "part": "Receiver",
+        "relics": "Axi V2,Axi V3",
+        "rarity": "Uncommon",
+        "ducat": 45,
+        "vaulted": 0
+    },
+    {
+        "name": "Braton",
+        "part": "Stock",
+        "relics": "Meso N1,Neo V2,Axi A1",
+        "rarity": "Common",
+        "ducat": 15,
+        "vaulted": 0
+    },
+    {
+        "name": "Bronco",
+        "part": "Blueprint",
+        "relics": "Lith N1,Lith S1,Meso N2,Meso S2,Axi N2,Axi S1",
+        "rarity": "Common",
+        "ducat": 15,
+        "vaulted": 0
+    },
+    {
+        "name": "Bronco",
+        "part": "Barrel",
+        "relics": "Neo V1,Axi N3",
+        "rarity": "Uncommon",
+        "ducat": 45,
+        "vaulted": 0
+    },
+    {
+        "name": "Bronco",
+        "part": "Receiver",
+        "relics": "Meso F1,Axi S1",
+        "rarity": "Common",
+        "ducat": 15,
+        "vaulted": 0
+    },
+    {
+        "name": "Burston",
+        "part": "Blueprint",
+        "relics": "Meso V1",
+        "rarity": "Common",
+        "ducat": 15,
+        "vaulted": 0
+    },
+    {
+        "name": "Burston",
+        "part": "Barrel",
+        "relics": "Lith F2,Axi T1",
+        "rarity": "Uncommon",
+        "ducat": 45,
+        "vaulted": 0
+    },
+    {
+        "name": "Burston",
+        "part": "Receiver",
+        "relics": "Neo S3",
+        "rarity": "Common",
+        "ducat": 15,
+        "vaulted": 0
+    },
+    {
+        "name": "Burston",
+        "part": "Stock",
+        "relics": "Lith K1,Lith V1,Neo S2",
+        "rarity": "Common",
+        "ducat": 15,
+        "vaulted": 0
+    },
+    {
+        "name": "Carrier",
+        "part": "Blueprint",
+        "relics": "Meso V1,Neo S3",
+        "rarity": "Common",
+        "ducat": 15,
+        "vaulted": 0
+    },
+    {
+        "name": "Carrier",
+        "part": "Carapace",
+        "relics": "Neo S1,Axi N2",
+        "rarity": "Common",
+        "ducat": 15,
+        "vaulted": 0
+    },
+    {
+        "name": "Carrier",
+        "part": "Cerebrum",
+        "relics": "Lith C1,Meso C1",
+        "rarity": "Rare",
+        "ducat": 100,
+        "vaulted": 0
+    },
+    {
+        "name": "Carrier",
+        "part": "Systems",
+        "relics": "Lith S2,Lith S3,Neo V3,Axi V1",
+        "rarity": "Common",
+        "ducat": 15,
+        "vaulted": 0
+    },
+    {
+        "name": "Dakra",
+        "part": "Blueprint",
+        "relics": "Lith M1",
+        "rarity": "Uncommon",
+        "ducat": 45,
+        "vaulted": 1
+    },
+    {
+        "name": "Dakra",
+        "part": "Blade",
+        "relics": "Neo D1",
+        "rarity": "Rare",
+        "ducat": 100,
+        "vaulted": 1
+    },
+    {
+        "name": "Dakra",
+        "part": "Handle",
+        "relics": "Meso B1",
+        "rarity": "Common",
+        "ducat": 15,
+        "vaulted": 1
+    },
+    {
+        "name": "Dual Kamas",
+        "part": "Blueprint",
+        "relics": "Neo V1,Axi N3,Axi V1",
+        "rarity": "Common",
+        "ducat": 15,
+        "vaulted": 0
+    },
+    {
+        "name": "Dual Kamas",
+        "part": "Blade",
+        "relics": "Meso D1",
+        "rarity": "Rare",
+        "ducat": 100,
+        "vaulted": 0
+    },
+    {
+        "name": "Dual Kamas",
+        "part": "Handle",
+        "relics": "Meso F1,Meso N1,Axi A1",
+        "rarity": "Uncommon",
+        "ducat": 45,
+        "vaulted": 0
+    },
+    {
+        "name": "Ember",
+        "part": "Blueprint",
+        "relics": "Prime Vault",
+        "rarity": "NA",
+        "ducat": 100,
+        "vaulted": 1
+    },
+    {
+        "name": "Ember",
+        "part": "Chassis",
+        "relics": "Prime Vault",
+        "rarity": "NA",
+        "ducat": 15,
+        "vaulted": 1
+    },
+    {
+        "name": "Ember",
+        "part": "Neuroptics",
+        "relics": "Prime Vault",
+        "rarity": "NA",
+        "ducat": 15,
+        "vaulted": 1
+    },
+    {
+        "name": "Ember",
+        "part": "Systems",
+        "relics": "Prime Vault",
+        "rarity": "NA",
+        "ducat": 45,
+        "vaulted": 1
+    },
+    {
+        "name": "Fang",
+        "part": "Blueprint",
+        "relics": "Lith K1,Meso N1,Neo N2",
+        "rarity": "Common",
+        "ducat": 15,
+        "vaulted": 0
+    },
+    {
+        "name": "Fang",
+        "part": "Blade",
+        "relics": "Lith C1,Lith F1,Lith N1,Axi N1",
+        "rarity": "Common",
+        "ducat": 15,
+        "vaulted": 0
+    },
+    {
+        "name": "Fang",
+        "part": "Handle",
+        "relics": "Lith F2,Meso N1,Meso N2,Neo N3,Neo V2",
+        "rarity": "Common",
+        "ducat": 15,
+        "vaulted": 0
+    },
+    {
+        "name": "Fragor",
+        "part": "Blueprint",
+        "relics": "Lith F1,Meso F1",
+        "rarity": "Rare",
+        "ducat": 100,
+        "vaulted": 0
+    },
+    {
+        "name": "Fragor",
+        "part": "Handle",
+        "relics": "Lith V1",
+        "rarity": "Rare",
+        "ducat": 100,
+        "vaulted": 0
+    },
+    {
+        "name": "Fragor",
+        "part": "Head",
+        "relics": "Axi A1",
+        "rarity": "Common",
+        "ducat": 15,
+        "vaulted": 0
+    },
+    {
+        "name": "Frost",
+        "part": "Blueprint",
+        "relics": "Prime Vault",
+        "rarity": "NA",
+        "ducat": 100,
+        "vaulted": 1
+    },
+    {
+        "name": "Frost",
+        "part": "Chassis",
+        "relics": "Prime Vault",
+        "rarity": "NA",
+        "ducat": 15,
+        "vaulted": 1
+    },
+    {
+        "name": "Frost",
+        "part": "Neuroptics",
+        "relics": "Prime Vault",
+        "rarity": "NA",
+        "ducat": 15,
+        "vaulted": 1
+    },
+    {
+        "name": "Frost",
+        "part": "Systems",
+        "relics": "Prime Vault",
+        "rarity": "NA",
+        "ducat": 45,
+        "vaulted": 1
+    },
+    {
+        "name": "Galatine",
+        "part": "Blueprint",
+        "relics": "Axi G1",
+        "rarity": "Rare",
+        "ducat": 100,
+        "vaulted": 0
+    },
+    {
+        "name": "Galatine",
+        "part": "Blade",
+        "relics": "Meso S2,Neo V2,Neo V3",
+        "rarity": "Common",
+        "ducat": 15,
+        "vaulted": 0
+    },
+    {
+        "name": "Galatine",
+        "part": "Handle",
+        "relics": "Neo V2",
+        "rarity": "Uncommon",
+        "ducat": 45,
+        "vaulted": 0
+    },
+    {
+        "name": "Glaive",
+        "part": "Blueprint",
+        "relics": "Prime Vault",
+        "rarity": "NA",
+        "ducat": 100,
+        "vaulted": 1
+    },
+    {
+        "name": "Glaive",
+        "part": "Blade",
+        "relics": "Prime Vault",
+        "rarity": "NA",
+        "ducat": 45,
+        "vaulted": 1
+    },
+    {
+        "name": "Glaive",
+        "part": "Disc",
+        "relics": "Prime Vault",
+        "rarity": "NA",
+        "ducat": 45,
+        "vaulted": 1
+    },
+    {
+        "name": "Hikou",
+        "part": "Blueprint",
+        "relics": "Lith S1,Meso N2",
+        "rarity": "Common",
+        "ducat": 15,
+        "vaulted": 1
+    },
+    {
+        "name": "Hikou",
+        "part": "Pouch",
+        "relics": "Axi K1,Axi V2",
+        "rarity": "Common",
+        "ducat": 15,
+        "vaulted": 1
+    },
+    {
+        "name": "Hikou",
+        "part": "Stars",
+        "relics": "Lith F2,Neo N1",
+        "rarity": "Common",
+        "ducat": 15,
+        "vaulted": 1
+    },
+    {
+        "name": "Kavasa",
+        "part": "Blueprint",
+        "relics": "Neo N1,Axi G1",
+        "rarity": "Uncommon",
+        "ducat": 45,
+        "vaulted": 0
+    },
+    {
+        "name": "Kavasa",
+        "part": "Band",
+        "relics": "Lith C1,Lith S2",
+        "rarity": "Uncommon",
+        "ducat": 45,
+        "vaulted": 0
+    },
+    {
+        "name": "Kavasa",
+        "part": "Buckle",
+        "relics": "Lith K1,Axi K1",
+        "rarity": "Rare",
+        "ducat": 100,
+        "vaulted": 0
+    },
+    {
+        "name": "Latron",
+        "part": "Blueprint",
+        "relics": "Prime Vault",
+        "rarity": "NA",
+        "ducat": 15,
+        "vaulted": 1
+    },
+    {
+        "name": "Latron",
+        "part": "Barrel",
+        "relics": "Prime Vault",
+        "rarity": "NA",
+        "ducat": 15,
+        "vaulted": 1
+    },
+    {
+        "name": "Latron",
+        "part": "Receiver",
+        "relics": "Prime Vault",
+        "rarity": "NA",
+        "ducat": 15,
+        "vaulted": 1
+    },
+    {
+        "name": "Latron",
+        "part": "Stock",
+        "relics": "Prime Vault",
+        "rarity": "NA",
+        "ducat": 15,
+        "vaulted": 1
+    },
+    {
+        "name": "Lex",
+        "part": "Blueprint",
+        "relics": "Meso D1,Neo N2",
+        "rarity": "Common",
+        "ducat": 15,
+        "vaulted": 0
+    },
+    {
+        "name": "Lex",
+        "part": "Barrel",
+        "relics": "Neo N3,Neo S1,Axi K1",
+        "rarity": "Common",
+        "ducat": 15,
+        "vaulted": 0
+    },
+    {
+        "name": "Lex",
+        "part": "Receiver",
+        "relics": "Lith M1,Axi N2",
+        "rarity": "Common",
+        "ducat": 15,
+        "vaulted": 0
+    },
+    {
+        "name": "Loki",
+        "part": "Blueprint",
+        "relics": "Prime Vault",
+        "rarity": "NA",
+        "ducat": 15,
+        "vaulted": 1
+    },
+    {
+        "name": "Loki",
+        "part": "Chassis",
+        "relics": "Prime Vault",
+        "rarity": "NA",
+        "ducat": 45,
+        "vaulted": 1
+    },
+    {
+        "name": "Loki",
+        "part": "Neuroptics",
+        "relics": "Prime Vault",
+        "rarity": "NA",
+        "ducat": 15,
+        "vaulted": 1
+    },
+    {
+        "name": "Loki",
+        "part": "Systems",
+        "relics": "Prime Vault",
+        "rarity": "NA",
+        "ducat": 100,
+        "vaulted": 1
+    },
+    {
+        "name": "Mag",
+        "part": "Blueprint",
+        "relics": "Lith M1",
+        "rarity": "Rare",
+        "ducat": 100,
+        "vaulted": 1
+    },
+    {
+        "name": "Mag",
+        "part": "Chassis",
+        "relics": "Meso B1",
+        "rarity": "Uncommon",
+        "ducat": 45,
+        "vaulted": 1
+    },
+    {
+        "name": "Mag",
+        "part": "Neuroptics",
+        "relics": "Axi V2",
+        "rarity": "Common",
+        "ducat": 15,
+        "vaulted": 1
+    },
+    {
+        "name": "Mag",
+        "part": "Systems",
+        "relics": "Neo D1",
+        "rarity": "Common",
+        "ducat": 15,
+        "vaulted": 1
+    },
+    {
+        "name": "Nekros",
+        "part": "Blueprint",
+        "relics": "Axi N3",
+        "rarity": "Rare",
+        "ducat": 100,
+        "vaulted": 0
+    },
+    {
+        "name": "Nekros",
+        "part": "Chassis",
+        "relics": "Lith N1,Axi G1",
+        "rarity": "Common",
+        "ducat": 15,
+        "vaulted": 0
+    },
+    {
+        "name": "Nekros",
+        "part": "Neuroptics",
+        "relics": "Meso F1",
+        "rarity": "Uncommon",
+        "ducat": 45,
+        "vaulted": 0
+    },
+    {
+        "name": "Nekros",
+        "part": "Systems",
+        "relics": "Neo N3",
+        "rarity": "Rare",
+        "ducat": 100,
+        "vaulted": 0
+    },
+    {
+        "name": "Nikana",
+        "part": "Blueprint",
+        "relics": "Axi A1",
+        "rarity": "Rare",
+        "ducat": 100,
+        "vaulted": 0
+    },
+    {
+        "name": "Nikana",
+        "part": "Blade",
+        "relics": "Meso V2",
+        "rarity": "Rare",
+        "ducat": 100,
+        "vaulted": 0
+    },
+    {
+        "name": "Nikana",
+        "part": "Hilt",
+        "relics": "Axi N2",
+        "rarity": "Rare",
+        "ducat": 100,
+        "vaulted": 0
+    },
+    {
+        "name": "Nova",
+        "part": "Blueprint",
+        "relics": "Neo N2",
+        "rarity": "Uncommon",
+        "ducat": 45,
+        "vaulted": 0
+    },
+    {
+        "name": "Nova",
+        "part": "Chassis",
+        "relics": "Lith N1,Neo V1",
+        "rarity": "Rare",
+        "ducat": 100,
+        "vaulted": 0
+    },
+    {
+        "name": "Nova",
+        "part": "Neuroptics",
+        "relics": "Lith C1,Meso C1",
+        "rarity": "Common",
+        "ducat": 15,
+        "vaulted": 0
+    },
+    {
+        "name": "Nova",
+        "part": "Systems",
+        "relics": "Lith C1,Meso S1,Neo S2",
+        "rarity": "Common",
+        "ducat": 15,
+        "vaulted": 0
+    },
+    {
+        "name": "Nyx",
+        "part": "Blueprint",
+        "relics": "Lith S2,Neo V1",
+        "rarity": "Common",
+        "ducat": 15,
+        "vaulted": 1
+    },
+    {
+        "name": "Nyx",
+        "part": "Chassis",
+        "relics": "Neo N1",
+        "rarity": "Rare",
+        "ducat": 100,
+        "vaulted": 1
+    },
+    {
+        "name": "Nyx",
+        "part": "Neuroptics",
+        "relics": "Meso N1",
+        "rarity": "Rare",
+        "ducat": 100,
+        "vaulted": 1
+    },
+    {
+        "name": "Nyx",
+        "part": "Systems",
+        "relics": "Neo S2",
+        "rarity": "Uncommon",
+        "ducat": 45,
+        "vaulted": 1
+    },
+    {
+        "name": "Odonata",
+        "part": "Blueprint",
+        "relics": "Lith F1,Meso S1",
+        "rarity": "Uncommon",
+        "ducat": 45,
+        "vaulted": 0
+    },
+    {
+        "name": "Odonata",
+        "part": "Harness",
+        "relics": "Lith K1,Axi K1,Axi T1",
+        "rarity": "Common",
+        "ducat": 15,
+        "vaulted": 0
+    },
+    {
+        "name": "Odonata",
+        "part": "Systems",
+        "relics": "Lith F2,Neo N3,Axi V1",
+        "rarity": "Common",
+        "ducat": 15,
+        "vaulted": 0
+    },
+    {
+        "name": "Odonata",
+        "part": "Wings",
+        "relics": "Axi N1",
+        "rarity": "Uncommon",
+        "ducat": 45,
+        "vaulted": 0
+    },
+    {
+        "name": "Orthos",
+        "part": "Blueprint",
+        "relics": "Meso B1,Axi V3",
+        "rarity": "Uncommon",
+        "ducat": 45,
+        "vaulted": 0
+    },
+    {
+        "name": "Orthos",
+        "part": "Blade",
+        "relics": "Meso D1",
+        "rarity": "Uncommon",
+        "ducat": 45,
+        "vaulted": 0
+    },
+    {
+        "name": "Orthos",
+        "part": "Handle",
+        "relics": "Meso B1,Meso D1",
+        "rarity": "Common",
+        "ducat": 15,
+        "vaulted": 0
+    },
+    {
+        "name": "Paris",
+        "part": "Blueprint",
+        "relics": "Lith F1,Meso S1,Meso V2,Axi G1",
+        "rarity": "Common",
+        "ducat": 15,
+        "vaulted": 0
+    },
+    {
+        "name": "Paris",
+        "part": "Grip",
+        "relics": "Lith S1,Meso S2",
+        "rarity": "Uncommon",
+        "ducat": 45,
+        "vaulted": 0
+    },
+    {
+        "name": "Paris",
+        "part": "Upper Limb",
+        "relics": "Lith F2,Lith V1,Meso S1,Neo S2,Axi N3",
+        "rarity": "Common",
+        "ducat": 25,
+        "vaulted": 0
+    },
+    {
+        "name": "Paris",
+        "part": "Lower Limb",
+        "relics": "Lith V1,Meso F1,Neo S2",
+        "rarity": "Common",
+        "ducat": 15,
+        "vaulted": 0
+    },
+    {
+        "name": "Paris",
+        "part": "String",
+        "relics": "Lith S1,Lith S3,Meso S2,Neo N3,Neo V3",
+        "rarity": "Common",
+        "ducat": 15,
+        "vaulted": 0
+    },
+    {
+        "name": "Reaper",
+        "part": "Blueprint",
+        "relics": "Prime Vault",
+        "rarity": "NA",
+        "ducat": 10,
+        "vaulted": 1
+    },
+    {
+        "name": "Reaper",
+        "part": "Blade",
+        "relics": "Prime Vault",
+        "rarity": "NA",
+        "ducat": 20,
+        "vaulted": 1
+    },
+    {
+        "name": "Reaper",
+        "part": "Handle",
+        "relics": "Prime Vault",
+        "rarity": "NA",
+        "ducat": 10,
+        "vaulted": 1
+    },
+    {
+        "name": "Rhino",
+        "part": "Blueprint",
+        "relics": "Prime Vault",
+        "rarity": "NA",
+        "ducat": 100,
+        "vaulted": 1
+    },
+    {
+        "name": "Rhino",
+        "part": "Chassis",
+        "relics": "Prime Vault",
+        "rarity": "NA",
+        "ducat": 100,
+        "vaulted": 1
+    },
+    {
+        "name": "Rhino",
+        "part": "Neuroptics",
+        "relics": "Prime Vault",
+        "rarity": "NA",
+        "ducat": 45,
+        "vaulted": 1
+    },
+    {
+        "name": "Rhino",
+        "part": "Systems",
+        "relics": "Prime Vault",
+        "rarity": "NA",
+        "ducat": 15,
+        "vaulted": 1
+    },
+    {
+        "name": "Sayrn",
+        "part": "Blueprint",
+        "relics": "Neo S1",
+        "rarity": "Rare",
+        "ducat": 100,
+        "vaulted": 0
+    },
+    {
+        "name": "Sayrn",
+        "part": "Chassis",
+        "relics": "Meso S2,Neo S2",
+        "rarity": "Rare",
+        "ducat": 100,
+        "vaulted": 0
+    },
+    {
+        "name": "Sayrn",
+        "part": "Neuroptics",
+        "relics": "Lith A1",
+        "rarity": "Uncommon",
+        "ducat": 45,
+        "vaulted": 0
+    },
+    {
+        "name": "Sayrn",
+        "part": "Systems",
+        "relics": "Meso C1,Meso F1,Axi G1,Axi T1",
+        "rarity": "Common",
+        "ducat": 15,
+        "vaulted": 0
+    },
+    {
+        "name": "Scindo",
+        "part": "Blueprint",
+        "relics": "Lith F1",
+        "rarity": "Uncommon",
+        "ducat": 45,
+        "vaulted": 1
+    },
+    {
+        "name": "Scindo",
+        "part": "Blade",
+        "relics": "Axi S1",
+        "rarity": "Rare",
+        "ducat": 100,
+        "vaulted": 1
+    },
+    {
+        "name": "Scindo",
+        "part": "Handle",
+        "relics": "Meso C1",
+        "rarity": "Uncommon",
+        "ducat": 45,
+        "vaulted": 1
+    },
+    {
+        "name": "Sicarus",
+        "part": "Blueprint",
+        "relics": "Prime Vault",
+        "rarity": "NA",
+        "ducat": 15,
+        "vaulted": 1
+    },
+    {
+        "name": "Sicarus",
+        "part": "Barrel",
+        "relics": "Prime Vault",
+        "rarity": "NA",
+        "ducat": 15,
+        "vaulted": 1
+    },
+    {
+        "name": "Sicarus",
+        "part": "Receiver",
+        "relics": "Prime Vault",
+        "rarity": "NA",
+        "ducat": 100,
+        "vaulted": 1
+    },
+    {
+        "name": "Soma",
+        "part": "Blueprint",
+        "relics": "Lith M1,Neo S1",
+        "rarity": "Common",
+        "ducat": 15,
+        "vaulted": 0
+    },
+    {
+        "name": "Soma",
+        "part": "Stock",
+        "relics": "Lith S2,Meso S1",
+        "rarity": "Rare",
+        "ducat": 100,
+        "vaulted": 0
+    },
+    {
+        "name": "Soma",
+        "part": "Receiver",
+        "relics": "Lith S3,Neo N1",
+        "rarity": "Uncommon",
+        "ducat": 45,
+        "vaulted": 0
+    },
+    {
+        "name": "Soma",
+        "part": "Barrel",
+        "relics": "Neo S3",
+        "rarity": "Common",
+        "ducat": 15,
+        "vaulted": 0
+    },
+    {
+        "name": "Spira",
+        "part": "Blueprint",
+        "relics": "Meso V1",
+        "rarity": "Common",
+        "ducat": 15,
+        "vaulted": 0
+    },
+    {
+        "name": "Spira",
+        "part": "Blade",
+        "relics": "Neo S3",
+        "rarity": "Rare",
+        "ducat": 100,
+        "vaulted": 0
+    },
+    {
+        "name": "Spira",
+        "part": "Pouch",
+        "relics": "Lith S1,Lith S3",
+        "rarity": "Rare",
+        "ducat": 100,
+        "vaulted": 0
+    },
+    {
+        "name": "Tigris",
+        "part": "Blueprint",
+        "relics": "Axi T1",
+        "rarity": "Rare",
+        "ducat": 100,
+        "vaulted": 0
+    },
+    {
+        "name": "Tigris",
+        "part": "Stock",
+        "relics": "Meso S1",
+        "rarity": "Common",
+        "ducat": 15,
+        "vaulted": 0
+    },
+    {
+        "name": "Tigris",
+        "part": "Receiver",
+        "relics": "Neo V3",
+        "rarity": "Uncommon",
+        "ducat": 45,
+        "vaulted": 0
+    },
+    {
+        "name": "Tigris",
+        "part": "Barrel",
+        "relics": "Lith K1",
+        "rarity": "Uncommon",
+        "ducat": 45,
+        "vaulted": 0
+    },
+    {
+        "name": "Trinity",
+        "part": "Blueprint",
+        "relics": "Lith K1,Axi S1",
+        "rarity": "Uncommon",
+        "ducat": 45,
+        "vaulted": 0
+    },
+    {
+        "name": "Trinity",
+        "part": "Chassis",
+        "relics": "Neo S1",
+        "rarity": "Uncommon",
+        "ducat": 45,
+        "vaulted": 0
+    },
+    {
+        "name": "Trinity",
+        "part": "Neuroptics",
+        "relics": "Neo D1,Axi V3",
+        "rarity": "Common",
+        "ducat": 25,
+        "vaulted": 0
+    },
+    {
+        "name": "Trinity",
+        "part": "Systems",
+        "relics": "Axi A1,Axi V2,Axi V3",
+        "rarity": "Common",
+        "ducat": 15,
+        "vaulted": 0
+    },
+    {
+        "name": "Vasto",
+        "part": "Blueprint",
+        "relics": "Neo S3",
+        "rarity": "Uncommon",
+        "ducat": 45,
+        "vaulted": 0
+    },
+    {
+        "name": "Vasto",
+        "part": "Barrel",
+        "relics": "Neo D1,Neo N2,Axi V3",
+        "rarity": "Common",
+        "ducat": 15,
+        "vaulted": 0
+    },
+    {
+        "name": "Vasto",
+        "part": "Receiver",
+        "relics": "Lith A1,Meso V2",
+        "rarity": "Common",
+        "ducat": 15,
+        "vaulted": 0
+    },
+    {
+        "name": "Vauban",
+        "part": "Blueprint",
+        "relics": "Lith F2,Neo V2",
+        "rarity": "Rare",
+        "ducat": 100,
+        "vaulted": 0
+    },
+    {
+        "name": "Vauban",
+        "part": "Chassis",
+        "relics": "Axi V1",
+        "rarity": "Rare",
+        "ducat": 100,
+        "vaulted": 0
+    },
+    {
+        "name": "Vauban",
+        "part": "Neuroptics",
+        "relics": "Meso N2,Neo V3",
+        "rarity": "Rare",
+        "ducat": 100,
+        "vaulted": 0
+    },
+    {
+        "name": "Vauban",
+        "part": "Systems",
+        "relics": "Neo N2",
+        "rarity": "Rare",
+        "ducat": 100,
+        "vaulted": 0
+    },
+    {
+        "name": "Vectis",
+        "part": "Blueprint",
+        "relics": "Lith A1",
+        "rarity": "Uncommon",
+        "ducat": 45,
+        "vaulted": 0
+    },
+    {
+        "name": "Vectis",
+        "part": "Barrel",
+        "relics": "Neo N1,Axi T1",
+        "rarity": "Common",
+        "ducat": 15,
+        "vaulted": 0
+    },
+    {
+        "name": "Vectis",
+        "part": "Receiver",
+        "relics": "Meso V1",
+        "rarity": "Rare",
+        "ducat": 100,
+        "vaulted": 0
+    },
+    {
+        "name": "Vectis",
+        "part": "Stock",
+        "relics": "Axi V2,Axi V3",
+        "rarity": "Rare",
+        "ducat": 100,
+        "vaulted": 0
+    },
+    {
+        "name": "Volt",
+        "part": "Blueprint",
+        "relics": "Neo V1,Axi N3",
+        "rarity": "Uncommon",
+        "ducat": 45,
+        "vaulted": 0
+    },
+    {
+        "name": "Volt",
+        "part": "Chassis",
+        "relics": "Meso V2",
+        "rarity": "Uncommon",
+        "ducat": 45,
+        "vaulted": 0
+    },
+    {
+        "name": "Volt",
+        "part": "Neuroptics",
+        "relics": "Axi V1",
+        "rarity": "Uncommon",
+        "ducat": 45,
+        "vaulted": 0
+    },
+    {
+        "name": "Volt",
+        "part": "Systems",
+        "relics": "Lith V1",
+        "rarity": "Uncommon",
+        "ducat": 45,
+        "vaulted": 0
+    },
+    {
+        "name": "Wyrm",
+        "part": "Blueprint",
+        "relics": "Prime Vault",
+        "rarity": "NA",
+        "ducat": 15,
+        "vaulted": 1
+    },
+    {
+        "name": "Wyrm",
+        "part": "Carapace",
+        "relics": "Prime Vault",
+        "rarity": "NA",
+        "ducat": 15,
+        "vaulted": 1
+    },
+    {
+        "name": "Wyrm",
+        "part": "Cerebrum",
+        "relics": "Prime Vault",
+        "rarity": "NA",
+        "ducat": 15,
+        "vaulted": 1
+    },
+    {
+        "name": "Wyrm",
+        "part": "Systems",
+        "relics": "Prime Vault",
+        "rarity": "NA",
+        "ducat": 45,
+        "vaulted": 1
+    }
+]}

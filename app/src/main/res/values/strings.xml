@@ -1,13 +1,13 @@
 <resources>
     <string name="app_name">WFRelic</string>
-    <string name="type1">Type 1</string>
-    <string name="type2">Type 2</string>
-    <string name="type3">Type 3</string>
-    <string name="type4">Type 4</string>
+    <string name="type1">Lith</string>
+    <string name="type2">Meso</string>
+    <string name="type3">Neo</string>
+    <string name="type4">Axi</string>
     <string name="type5">Type 5</string>
-    <string name="type1tag">type1</string>
-    <string name="type2tag">type2</string>
-    <string name="type3tag">type3</string>
-    <string name="type4tag">type4</string>
+    <string name="type1tag">Lith</string>
+    <string name="type2tag">Meso</string>
+    <string name="type3tag">Neo</string>
+    <string name="type4tag">Axi</string>
     <string name="type5tag">type5</string>
 </resources>
