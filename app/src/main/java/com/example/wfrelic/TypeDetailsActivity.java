@@ -19,6 +19,7 @@ import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ValueEventListener;
 
 import java.util.ArrayList;
+import java.util.Comparator;
 import java.util.Map;
 
 public class TypeDetailsActivity extends Activity {
@@ -63,7 +64,8 @@ public class TypeDetailsActivity extends Activity {
             }
         });
 
-        myRef.orderByChild("ducat").addValueEventListener(new ValueEventListener() {
+        //myRef.orderByChild("ducat").addValueEventListener(new ValueEventListener() {
+        myRef.addValueEventListener(new ValueEventListener() {
             @Override
             public void onDataChange(DataSnapshot dataSnapshot) {
                 for (DataSnapshot ds : dataSnapshot.getChildren()) {
@@ -74,7 +76,32 @@ public class TypeDetailsActivity extends Activity {
                         listItems.add(item);
                     }
                 }
+
                 adItems = new ItemArrayAdapter(TypeDetailsActivity.this, listItems);
+
+                // Sort items by Ducat > Name > Part
+                adItems.sort(new Comparator<Item>() {
+                    @Override
+                    public int compare(Item lhs, Item rhs) {
+                        if (lhs.getDucat() == rhs.getDucat())
+                        {
+                            int nameComparsion = lhs.getName().compareTo(rhs.getName());
+                            if (nameComparsion == 0)
+                            {
+                                return lhs.getPart().compareTo(rhs.getPart());
+                            }
+                            else
+                            {
+                                return nameComparsion;
+                            }
+                        }
+                        else
+                        {
+                            return (rhs.getDucat() - lhs.getDucat());
+                        }
+                    }
+                });
+
                 lvItems.setAdapter(adItems);
                 pbLoad.setVisibility(View.GONE);
                 txtSearch.setEnabled(true);

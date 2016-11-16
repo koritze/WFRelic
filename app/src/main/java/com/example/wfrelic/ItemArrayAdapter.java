@@ -101,10 +101,6 @@ public class ItemArrayAdapter extends ArrayAdapter<Item> implements Filterable {
 
                     for(Item data : items)
                     {
-                        //In this loop, you'll filter through originalData and compare each item to charSequence.
-                        //If you find a match, add it to your new ArrayList
-                        //I'm not sure how you're going to do comparison, so you'll need to fill out this conditional
-
                         /*
                         // Compare anywhere
                         if(data.name.toLowerCase().contains(toCompare) || data.part.toLowerCase().contains(toCompare))
